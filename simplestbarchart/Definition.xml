@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="Simplest Bar Chart" Description="Simplest Bar Chart" PageHeight="100000">
+	<Dimension Label="Title Dimension" Initial="State" DropTarget="State"/>
+	<Measurement Label="Measure" Initial="" />
+</ExtensionObject>
